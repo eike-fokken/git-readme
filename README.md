@@ -28,8 +28,6 @@ enthalten soll, aber noch hast du nichts programmiert. Zunächst erstellst du ei
 
 #### Erklärung von Git
 
-Der folgende Abschnitt ist nur für das Verständnis und kann der Verwendung von Sourcetree übersprungen werden. Bei Sourcetree sind alle Befehle durch Buttons ausführbar.
-
 
 Nun musst du das (leere) Repository herunterladen mit 
 
